@@ -43,7 +43,7 @@ LinkSetField constructor accepts five params:
   - LinkTarget
   - LinkedPageID
   - LinkedFile
-- array $typesToRemove (optional) - Remove link types from the radio, to remove to option for None pass in array for example ['None']. Possible options to remove are:
+- array $typesToRemove (optional) - Remove link types from the radio, to remove the option for None pass in array for example ['None']. Possible options to remove are:
   - None
   - Page
   - File
@@ -69,7 +69,7 @@ You can output the link in the template by calling the relation
 ```
 This will output a simple anchor tag with the all the fields that had been set on the LinkSetField group.
 
-Custom anchors can be done by accessing the fields throught the relations as normal
+Custom anchors can be done by accessing the fields through the relation as normal
 ```
 <% with $ButtonLink %>
   <a 
