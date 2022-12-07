@@ -1,5 +1,5 @@
 # SilverStripe Linkset
-Adds to easy to implement link options to the CMS
+Adds easy to implement link options to the CMS
 
 ## Features
 - Choose from the following options: None, Page, File, URL
