@@ -3,7 +3,7 @@ Adds easy to implement link options to the CMS
 
 ## Features
 - Choose from the following options: None, Page, File, URL
-- Option remove fields that don't apply to your implementation
+- Option to remove fields that don't apply to your implementation
 - Can output link straight to template
 
 
